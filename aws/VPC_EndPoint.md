@@ -1,6 +1,6 @@
 # Create a VPC Endpoint and S3 Bucket in AWS
 
-![alt text](https://s3.brilliant.com.bd/blog-bucket/thumbnail/26192cb5-a3d1-42b4-84f3-c7ef08d0c354.gif)
+![alt text](https://jmp.sh/s/corIQ3SE0cKpH0n2MwMy)
 
 Traditionally, accessing AWS services required routing traffic through the internet, which meant relying on Internet Gateways or NAT Gateways. However, with VPC Endpoints, everything stays within your private network. This means you’re not exposing your data to the public internet, creating a much safer environment.
 
