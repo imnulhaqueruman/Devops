@@ -6,4 +6,6 @@ Gitlab CI Piple and ArgoCD
 EKS cluster Infra create by terraform 
 ![images](./EKS%20Cluster.png)
 
+EKS sETUOP
+
 
